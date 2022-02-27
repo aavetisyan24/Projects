@@ -1,0 +1,3466 @@
+[
+    {
+        "type": "large_airport",
+        "name": "Honiara International Airport",
+        "iso_country": "SB",
+        "municipality": "Honiara",
+        "scheduled_service": "yes",
+        "iata_code": "HIR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Port Moresby Jacksons International Airport",
+        "iso_country": "PG",
+        "municipality": "Port Moresby",
+        "scheduled_service": "yes",
+        "iata_code": "POM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Keflavik International Airport",
+        "iso_country": "IS",
+        "municipality": "Reykjav\u00edk",
+        "scheduled_service": "yes",
+        "iata_code": "KEF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Edmonton International Airport",
+        "iso_country": "CA",
+        "municipality": "Edmonton",
+        "scheduled_service": "yes",
+        "iata_code": "YEG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Halifax / Stanfield International Airport",
+        "iso_country": "CA",
+        "municipality": "Halifax",
+        "scheduled_service": "yes",
+        "iata_code": "YHZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kelowna International Airport",
+        "iso_country": "CA",
+        "municipality": "Kelowna",
+        "scheduled_service": "yes",
+        "iata_code": "YLW"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ottawa Macdonald-Cartier International Airport",
+        "iso_country": "CA",
+        "municipality": "Ottawa",
+        "scheduled_service": "yes",
+        "iata_code": "YOW"
+    },
+    {
+        "type": "large_airport",
+        "name": "Quebec Jean Lesage International Airport",
+        "iso_country": "CA",
+        "municipality": "Quebec",
+        "scheduled_service": "yes",
+        "iata_code": "YQB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport",
+        "iso_country": "CA",
+        "municipality": "Montr\u00e9al",
+        "scheduled_service": "yes",
+        "iata_code": "YUL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Vancouver International Airport",
+        "iso_country": "CA",
+        "municipality": "Vancouver",
+        "scheduled_service": "yes",
+        "iata_code": "YVR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Winnipeg / James Armstrong Richardson International Airport",
+        "iso_country": "CA",
+        "municipality": "Winnipeg",
+        "scheduled_service": "yes",
+        "iata_code": "YWG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Calgary International Airport",
+        "iso_country": "CA",
+        "municipality": "Calgary",
+        "scheduled_service": "yes",
+        "iata_code": "YYC"
+    },
+    {
+        "type": "large_airport",
+        "name": "St. John's International Airport",
+        "iso_country": "CA",
+        "municipality": "St. John's",
+        "scheduled_service": "yes",
+        "iata_code": "YYT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lester B. Pearson International Airport",
+        "iso_country": "CA",
+        "municipality": "Toronto",
+        "scheduled_service": "yes",
+        "iata_code": "YYZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Houari Boumediene Airport",
+        "iso_country": "DZ",
+        "municipality": "Algiers",
+        "scheduled_service": "yes",
+        "iata_code": "ALG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kotoka International Airport",
+        "iso_country": "GH",
+        "municipality": "Accra",
+        "scheduled_service": "yes",
+        "iata_code": "ACC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nnamdi Azikiwe International Airport",
+        "iso_country": "NG",
+        "municipality": "Abuja",
+        "scheduled_service": "yes",
+        "iata_code": "ABV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Murtala Muhammed International Airport",
+        "iso_country": "NG",
+        "municipality": "Lagos",
+        "scheduled_service": "yes",
+        "iata_code": "LOS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Diori Hamani International Airport",
+        "iso_country": "NE",
+        "municipality": "Niamey",
+        "scheduled_service": "yes",
+        "iata_code": "NIM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tunis Carthage International Airport",
+        "iso_country": "TN",
+        "municipality": "Tunis",
+        "scheduled_service": "yes",
+        "iata_code": "TUN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Brussels Airport",
+        "iso_country": "BE",
+        "municipality": "Brussels",
+        "scheduled_service": "yes",
+        "iata_code": "BRU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Berlin Brandenburg Airport",
+        "iso_country": "DE",
+        "municipality": "Berlin",
+        "scheduled_service": "yes",
+        "iata_code": "BER"
+    },
+    {
+        "type": "large_airport",
+        "name": "Frankfurt am Main Airport",
+        "iso_country": "DE",
+        "municipality": "Frankfurt am Main",
+        "scheduled_service": "yes",
+        "iata_code": "FRA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hamburg Helmut Schmidt Airport",
+        "iso_country": "DE",
+        "municipality": "Hamburg",
+        "scheduled_service": "yes",
+        "iata_code": "HAM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cologne Bonn Airport",
+        "iso_country": "DE",
+        "municipality": "Cologne",
+        "scheduled_service": "yes",
+        "iata_code": "CGN"
+    },
+    {
+        "type": "large_airport",
+        "name": "D\u00fcsseldorf Airport",
+        "iso_country": "DE",
+        "municipality": "D\u00fcsseldorf",
+        "scheduled_service": "yes",
+        "iata_code": "DUS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Munich Airport",
+        "iso_country": "DE",
+        "municipality": "Munich",
+        "scheduled_service": "yes",
+        "iata_code": "MUC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nuremberg Airport",
+        "iso_country": "DE",
+        "municipality": "Nuremberg",
+        "scheduled_service": "yes",
+        "iata_code": "NUE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Leipzig/Halle Airport",
+        "iso_country": "DE",
+        "municipality": "Leipzig",
+        "scheduled_service": "yes",
+        "iata_code": "LEJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Stuttgart Airport",
+        "iso_country": "DE",
+        "municipality": "Stuttgart",
+        "scheduled_service": "yes",
+        "iata_code": "STR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hannover Airport",
+        "iso_country": "DE",
+        "municipality": "Hannover",
+        "scheduled_service": "yes",
+        "iata_code": "HAJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lennart Meri Tallinn Airport",
+        "iso_country": "EE",
+        "municipality": "Tallinn",
+        "scheduled_service": "yes",
+        "iata_code": "TLL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Helsinki Vantaa Airport",
+        "iso_country": "FI",
+        "municipality": "Helsinki",
+        "scheduled_service": "yes",
+        "iata_code": "HEL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Belfast International Airport",
+        "iso_country": "GB",
+        "municipality": "Belfast",
+        "scheduled_service": "yes",
+        "iata_code": "BFS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Birmingham International Airport",
+        "iso_country": "GB",
+        "municipality": "Birmingham",
+        "scheduled_service": "yes",
+        "iata_code": "BHX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Manchester Airport",
+        "iso_country": "GB",
+        "municipality": "Manchester",
+        "scheduled_service": "yes",
+        "iata_code": "MAN"
+    },
+    {
+        "type": "large_airport",
+        "name": "London Luton Airport",
+        "iso_country": "GB",
+        "municipality": "London",
+        "scheduled_service": "yes",
+        "iata_code": "LTN"
+    },
+    {
+        "type": "large_airport",
+        "name": "London Gatwick Airport",
+        "iso_country": "GB",
+        "municipality": "London",
+        "scheduled_service": "yes",
+        "iata_code": "LGW"
+    },
+    {
+        "type": "large_airport",
+        "name": "London Heathrow Airport",
+        "iso_country": "GB",
+        "municipality": "London",
+        "scheduled_service": "yes",
+        "iata_code": "LHR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Glasgow International Airport",
+        "iso_country": "GB",
+        "municipality": "Paisley, Renfrewshire",
+        "scheduled_service": "yes",
+        "iata_code": "GLA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Edinburgh Airport",
+        "iso_country": "GB",
+        "municipality": "Edinburgh",
+        "scheduled_service": "yes",
+        "iata_code": "EDI"
+    },
+    {
+        "type": "large_airport",
+        "name": "London Stansted Airport",
+        "iso_country": "GB",
+        "municipality": "London",
+        "scheduled_service": "yes",
+        "iata_code": "STN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Amsterdam Airport Schiphol",
+        "iso_country": "NL",
+        "municipality": "Amsterdam",
+        "scheduled_service": "yes",
+        "iata_code": "AMS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Eindhoven Airport",
+        "iso_country": "NL",
+        "municipality": "Eindhoven",
+        "scheduled_service": "yes",
+        "iata_code": "EIN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Dublin Airport",
+        "iso_country": "IE",
+        "municipality": "Dublin",
+        "scheduled_service": "yes",
+        "iata_code": "DUB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Shannon Airport",
+        "iso_country": "IE",
+        "municipality": "Shannon",
+        "scheduled_service": "yes",
+        "iata_code": "SNN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Billund Airport",
+        "iso_country": "DK",
+        "municipality": "Billund",
+        "scheduled_service": "yes",
+        "iata_code": "BLL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Copenhagen Kastrup Airport",
+        "iso_country": "DK",
+        "municipality": "Copenhagen",
+        "scheduled_service": "yes",
+        "iata_code": "CPH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Luxembourg-Findel International Airport",
+        "iso_country": "LU",
+        "municipality": "Luxembourg",
+        "scheduled_service": "yes",
+        "iata_code": "LUX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Bergen Airport, Flesland",
+        "iso_country": "NO",
+        "municipality": "Bergen",
+        "scheduled_service": "yes",
+        "iata_code": "BGO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Oslo Airport, Gardermoen",
+        "iso_country": "NO",
+        "municipality": "Oslo",
+        "scheduled_service": "yes",
+        "iata_code": "OSL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Troms\u00f8 Airport, Langnes",
+        "iso_country": "NO",
+        "municipality": "Troms\u00f8",
+        "scheduled_service": "yes",
+        "iata_code": "TOS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Trondheim Airport, V\u00e6rnes",
+        "iso_country": "NO",
+        "municipality": "Trondheim",
+        "scheduled_service": "yes",
+        "iata_code": "TRD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Stavanger Airport, Sola",
+        "iso_country": "NO",
+        "municipality": "Stavanger",
+        "scheduled_service": "yes",
+        "iata_code": "SVG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport",
+        "iso_country": "PL",
+        "municipality": "Gda\u0144sk",
+        "scheduled_service": "yes",
+        "iata_code": "GDN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Krak\u00f3w John Paul II International Airport",
+        "iso_country": "PL",
+        "municipality": "Krak\u00f3w",
+        "scheduled_service": "yes",
+        "iata_code": "KRK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Warsaw Chopin Airport",
+        "iso_country": "PL",
+        "municipality": "Warsaw",
+        "scheduled_service": "yes",
+        "iata_code": "WAW"
+    },
+    {
+        "type": "large_airport",
+        "name": "Gothenburg-Landvetter Airport",
+        "iso_country": "SE",
+        "municipality": "Gothenburg",
+        "scheduled_service": "yes",
+        "iata_code": "GOT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Stockholm-Arlanda Airport",
+        "iso_country": "SE",
+        "municipality": "Stockholm",
+        "scheduled_service": "yes",
+        "iata_code": "ARN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Riga International Airport",
+        "iso_country": "LV",
+        "municipality": "Riga",
+        "scheduled_service": "yes",
+        "iata_code": "RIX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Vilnius International Airport",
+        "iso_country": "LT",
+        "municipality": "Vilnius",
+        "scheduled_service": "yes",
+        "iata_code": "VNO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cape Town International Airport",
+        "iso_country": "ZA",
+        "municipality": "Cape Town",
+        "scheduled_service": "yes",
+        "iata_code": "CPT"
+    },
+    {
+        "type": "large_airport",
+        "name": "King Shaka International Airport",
+        "iso_country": "ZA",
+        "municipality": "Durban",
+        "scheduled_service": "yes",
+        "iata_code": "DUR"
+    },
+    {
+        "type": "large_airport",
+        "name": "OR Tambo International Airport",
+        "iso_country": "ZA",
+        "municipality": "Johannesburg",
+        "scheduled_service": "yes",
+        "iata_code": "JNB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sir Seretse Khama International Airport",
+        "iso_country": "BW",
+        "municipality": "Gaborone",
+        "scheduled_service": "yes",
+        "iata_code": "GBE"
+    },
+    {
+        "type": "large_airport",
+        "name": "King Mswati III International Airport",
+        "iso_country": "SZ",
+        "municipality": "Mpaka",
+        "scheduled_service": "yes",
+        "iata_code": "SHO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sir Seewoosagur Ramgoolam International Airport",
+        "iso_country": "MU",
+        "municipality": "Plaine Magnein",
+        "scheduled_service": "yes",
+        "iata_code": "MRU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kenneth Kaunda International Airport",
+        "iso_country": "ZM",
+        "municipality": "Lusaka",
+        "scheduled_service": "yes",
+        "iata_code": "LUN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Roland Garros Airport",
+        "iso_country": "RE",
+        "municipality": "St Denis",
+        "scheduled_service": "yes",
+        "iata_code": "RUN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ivato Airport",
+        "iso_country": "MG",
+        "municipality": "Antananarivo",
+        "scheduled_service": "yes",
+        "iata_code": "TNR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Quatro de Fevereiro Airport",
+        "iso_country": "AO",
+        "municipality": "Luanda",
+        "scheduled_service": "yes",
+        "iata_code": "LAD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Maputo Airport",
+        "iso_country": "MZ",
+        "municipality": "Maputo",
+        "scheduled_service": "yes",
+        "iata_code": "MPM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Seychelles International Airport",
+        "iso_country": "SC",
+        "municipality": "Mahe Island",
+        "scheduled_service": "yes",
+        "iata_code": "SEZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "N'Djamena International Airport",
+        "iso_country": "TD",
+        "municipality": "N'Djamena",
+        "scheduled_service": "yes",
+        "iata_code": "NDJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Robert Gabriel Mugabe International Airport",
+        "iso_country": "ZW",
+        "municipality": "Harare",
+        "scheduled_service": "yes",
+        "iata_code": "HRE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hosea Kutako International Airport",
+        "iso_country": "NA",
+        "municipality": "Windhoek",
+        "scheduled_service": "yes",
+        "iata_code": "WDH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ndjili International Airport",
+        "iso_country": "CD",
+        "municipality": "Kinshasa",
+        "scheduled_service": "yes",
+        "iata_code": "FIH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Modibo Keita International Airport",
+        "iso_country": "ML",
+        "municipality": "Bamako",
+        "scheduled_service": "yes",
+        "iata_code": "BKO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Banjul International Airport",
+        "iso_country": "GM",
+        "municipality": "Banjul",
+        "scheduled_service": "yes",
+        "iata_code": "BJL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Fuerteventura Airport",
+        "iso_country": "ES",
+        "municipality": "Fuerteventura Island",
+        "scheduled_service": "yes",
+        "iata_code": "FUE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Gran Canaria Airport",
+        "iso_country": "ES",
+        "municipality": "Gran Canaria Island",
+        "scheduled_service": "yes",
+        "iata_code": "LPA"
+    },
+    {
+        "type": "large_airport",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport",
+        "iso_country": "ES",
+        "municipality": "Lanzarote Island",
+        "scheduled_service": "yes",
+        "iata_code": "ACE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tenerife Sur Airport",
+        "iso_country": "ES",
+        "municipality": "Tenerife",
+        "scheduled_service": "yes",
+        "iata_code": "TFS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lungi International Airport",
+        "iso_country": "SL",
+        "municipality": "Freetown (Lungi-Town)",
+        "scheduled_service": "yes",
+        "iata_code": "FNA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Roberts International Airport",
+        "iso_country": "LR",
+        "municipality": "Monrovia",
+        "scheduled_service": "yes",
+        "iata_code": "ROB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mohammed V International Airport",
+        "iso_country": "MA",
+        "municipality": "Casablanca",
+        "scheduled_service": "yes",
+        "iata_code": "CMN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Blaise Diagne International Airport",
+        "iso_country": "SN",
+        "municipality": "Dakar",
+        "scheduled_service": "yes",
+        "iata_code": "DSS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nouakchott\u2013Oumtounsy International Airport",
+        "iso_country": "MR",
+        "municipality": "Nouakchott",
+        "scheduled_service": "yes",
+        "iata_code": "NKC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Am\u00edlcar Cabral International Airport",
+        "iso_country": "CV",
+        "municipality": "Espargos",
+        "scheduled_service": "yes",
+        "iata_code": "SID"
+    },
+    {
+        "type": "large_airport",
+        "name": "Addis Ababa Bole International Airport",
+        "iso_country": "ET",
+        "municipality": "Addis Ababa",
+        "scheduled_service": "yes",
+        "iata_code": "ADD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Djibouti-Ambouli Airport",
+        "iso_country": "DJ",
+        "municipality": "Djibouti City",
+        "scheduled_service": "yes",
+        "iata_code": "JIB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cairo International Airport",
+        "iso_country": "EG",
+        "municipality": "Cairo",
+        "scheduled_service": "yes",
+        "iata_code": "CAI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hurghada International Airport",
+        "iso_country": "EG",
+        "municipality": "Hurghada",
+        "scheduled_service": "yes",
+        "iata_code": "HRG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sharm El Sheikh International Airport",
+        "iso_country": "EG",
+        "municipality": "Sharm el-Sheikh",
+        "scheduled_service": "yes",
+        "iata_code": "SSH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Juba International Airport",
+        "iso_country": "SS",
+        "municipality": "Juba",
+        "scheduled_service": "yes",
+        "iata_code": "JUB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jomo Kenyatta International Airport",
+        "iso_country": "KE",
+        "municipality": "Nairobi",
+        "scheduled_service": "yes",
+        "iata_code": "NBO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Moi International Airport",
+        "iso_country": "KE",
+        "municipality": "Mombasa",
+        "scheduled_service": "yes",
+        "iata_code": "MBA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tripoli International Airport",
+        "iso_country": "LY",
+        "municipality": "Tripoli",
+        "scheduled_service": "yes",
+        "iata_code": "TIP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kigali International Airport",
+        "iso_country": "RW",
+        "municipality": "Kigali",
+        "scheduled_service": "yes",
+        "iata_code": "KGL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Khartoum International Airport",
+        "iso_country": "SD",
+        "municipality": "Khartoum",
+        "scheduled_service": "yes",
+        "iata_code": "KRT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Julius Nyerere International Airport",
+        "iso_country": "TZ",
+        "municipality": "Dar es Salaam",
+        "scheduled_service": "yes",
+        "iata_code": "DAR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Abeid Amani Karume International Airport",
+        "iso_country": "TZ",
+        "municipality": "Zanzibar",
+        "scheduled_service": "yes",
+        "iata_code": "ZNZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Entebbe International Airport",
+        "iso_country": "UG",
+        "municipality": "Kampala",
+        "scheduled_service": "yes",
+        "iata_code": "EBB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hartsfield Jackson Atlanta International Airport",
+        "iso_country": "US",
+        "municipality": "Atlanta",
+        "scheduled_service": "yes",
+        "iata_code": "ATL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Austin Bergstrom International Airport",
+        "iso_country": "US",
+        "municipality": "Austin",
+        "scheduled_service": "yes",
+        "iata_code": "AUS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nashville International Airport",
+        "iso_country": "US",
+        "municipality": "Nashville",
+        "scheduled_service": "yes",
+        "iata_code": "BNA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Logan International Airport",
+        "iso_country": "US",
+        "municipality": "Boston",
+        "scheduled_service": "yes",
+        "iata_code": "BOS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Buffalo Niagara International Airport",
+        "iso_country": "US",
+        "municipality": "Buffalo",
+        "scheduled_service": "yes",
+        "iata_code": "BUF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Baltimore/Washington International Thurgood Marshall Airport",
+        "iso_country": "US",
+        "municipality": "Baltimore",
+        "scheduled_service": "yes",
+        "iata_code": "BWI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cleveland Hopkins International Airport",
+        "iso_country": "US",
+        "municipality": "Cleveland",
+        "scheduled_service": "yes",
+        "iata_code": "CLE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Charlotte Douglas International Airport",
+        "iso_country": "US",
+        "municipality": "Charlotte",
+        "scheduled_service": "yes",
+        "iata_code": "CLT"
+    },
+    {
+        "type": "large_airport",
+        "name": "John Glenn Columbus International Airport",
+        "iso_country": "US",
+        "municipality": "Columbus",
+        "scheduled_service": "yes",
+        "iata_code": "CMH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cincinnati Northern Kentucky International Airport",
+        "iso_country": "US",
+        "municipality": "Cincinnati / Covington",
+        "scheduled_service": "yes",
+        "iata_code": "CVG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ronald Reagan Washington National Airport",
+        "iso_country": "US",
+        "municipality": "Washington",
+        "scheduled_service": "yes",
+        "iata_code": "DCA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Denver International Airport",
+        "iso_country": "US",
+        "municipality": "Denver",
+        "scheduled_service": "yes",
+        "iata_code": "DEN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Dallas Fort Worth International Airport",
+        "iso_country": "US",
+        "municipality": "Dallas-Fort Worth",
+        "scheduled_service": "yes",
+        "iata_code": "DFW"
+    },
+    {
+        "type": "large_airport",
+        "name": "Detroit Metropolitan Wayne County Airport",
+        "iso_country": "US",
+        "municipality": "Detroit",
+        "scheduled_service": "yes",
+        "iata_code": "DTW"
+    },
+    {
+        "type": "large_airport",
+        "name": "Newark Liberty International Airport",
+        "iso_country": "US",
+        "municipality": "New York",
+        "scheduled_service": "yes",
+        "iata_code": "EWR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Fort Lauderdale Hollywood International Airport",
+        "iso_country": "US",
+        "municipality": "Fort Lauderdale",
+        "scheduled_service": "yes",
+        "iata_code": "FLL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Washington Dulles International Airport",
+        "iso_country": "US",
+        "municipality": "Washington",
+        "scheduled_service": "yes",
+        "iata_code": "IAD"
+    },
+    {
+        "type": "large_airport",
+        "name": "George Bush Intercontinental Houston Airport",
+        "iso_country": "US",
+        "municipality": "Houston",
+        "scheduled_service": "yes",
+        "iata_code": "IAH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Indianapolis International Airport",
+        "iso_country": "US",
+        "municipality": "Indianapolis",
+        "scheduled_service": "yes",
+        "iata_code": "IND"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jacksonville International Airport",
+        "iso_country": "US",
+        "municipality": "Jacksonville",
+        "scheduled_service": "yes",
+        "iata_code": "JAX"
+    },
+    {
+        "type": "large_airport",
+        "name": "John F Kennedy International Airport",
+        "iso_country": "US",
+        "municipality": "New York",
+        "scheduled_service": "yes",
+        "iata_code": "JFK"
+    },
+    {
+        "type": "large_airport",
+        "name": "McCarran International Airport",
+        "iso_country": "US",
+        "municipality": "Las Vegas",
+        "scheduled_service": "yes",
+        "iata_code": "LAS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Los Angeles International Airport",
+        "iso_country": "US",
+        "municipality": "Los Angeles",
+        "scheduled_service": "yes",
+        "iata_code": "LAX"
+    },
+    {
+        "type": "large_airport",
+        "name": "La Guardia Airport",
+        "iso_country": "US",
+        "municipality": "New York",
+        "scheduled_service": "yes",
+        "iata_code": "LGA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kansas City International Airport",
+        "iso_country": "US",
+        "municipality": "Kansas City",
+        "scheduled_service": "yes",
+        "iata_code": "MCI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Orlando International Airport",
+        "iso_country": "US",
+        "municipality": "Orlando",
+        "scheduled_service": "yes",
+        "iata_code": "MCO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Memphis International Airport",
+        "iso_country": "US",
+        "municipality": "Memphis",
+        "scheduled_service": "yes",
+        "iata_code": "MEM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Miami International Airport",
+        "iso_country": "US",
+        "municipality": "Miami",
+        "scheduled_service": "yes",
+        "iata_code": "MIA"
+    },
+    {
+        "type": "large_airport",
+        "name": "General Mitchell International Airport",
+        "iso_country": "US",
+        "municipality": "Milwaukee",
+        "scheduled_service": "yes",
+        "iata_code": "MKE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Minneapolis\u2013Saint Paul International Airport / Wold\u2013Chamberlain Field",
+        "iso_country": "US",
+        "municipality": "Minneapolis",
+        "scheduled_service": "yes",
+        "iata_code": "MSP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Louis Armstrong New Orleans International Airport",
+        "iso_country": "US",
+        "municipality": "New Orleans",
+        "scheduled_service": "yes",
+        "iata_code": "MSY"
+    },
+    {
+        "type": "large_airport",
+        "name": "Metropolitan Oakland International Airport",
+        "iso_country": "US",
+        "municipality": "Oakland",
+        "scheduled_service": "yes",
+        "iata_code": "OAK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ontario International Airport",
+        "iso_country": "US",
+        "municipality": "Ontario",
+        "scheduled_service": "yes",
+        "iata_code": "ONT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chicago O'Hare International Airport",
+        "iso_country": "US",
+        "municipality": "Chicago",
+        "scheduled_service": "yes",
+        "iata_code": "ORD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Palm Beach International Airport",
+        "iso_country": "US",
+        "municipality": "West Palm Beach",
+        "scheduled_service": "yes",
+        "iata_code": "PBI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Portland International Airport",
+        "iso_country": "US",
+        "municipality": "Portland",
+        "scheduled_service": "yes",
+        "iata_code": "PDX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Philadelphia International Airport",
+        "iso_country": "US",
+        "municipality": "Philadelphia",
+        "scheduled_service": "yes",
+        "iata_code": "PHL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Phoenix Sky Harbor International Airport",
+        "iso_country": "US",
+        "municipality": "Phoenix",
+        "scheduled_service": "yes",
+        "iata_code": "PHX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Pittsburgh International Airport",
+        "iso_country": "US",
+        "municipality": "Pittsburgh",
+        "scheduled_service": "yes",
+        "iata_code": "PIT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Theodore Francis Green State Airport",
+        "iso_country": "US",
+        "municipality": "Providence",
+        "scheduled_service": "yes",
+        "iata_code": "PVD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Portland International Jetport",
+        "iso_country": "US",
+        "municipality": "Portland",
+        "scheduled_service": "yes",
+        "iata_code": "PWM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Raleigh Durham International Airport",
+        "iso_country": "US",
+        "municipality": "Raleigh/Durham",
+        "scheduled_service": "yes",
+        "iata_code": "RDU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Richmond International Airport",
+        "iso_country": "US",
+        "municipality": "Richmond",
+        "scheduled_service": "yes",
+        "iata_code": "RIC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Reno Tahoe International Airport",
+        "iso_country": "US",
+        "municipality": "Reno",
+        "scheduled_service": "yes",
+        "iata_code": "RNO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Southwest Florida International Airport",
+        "iso_country": "US",
+        "municipality": "Fort Myers",
+        "scheduled_service": "yes",
+        "iata_code": "RSW"
+    },
+    {
+        "type": "large_airport",
+        "name": "San Diego International Airport",
+        "iso_country": "US",
+        "municipality": "San Diego",
+        "scheduled_service": "yes",
+        "iata_code": "SAN"
+    },
+    {
+        "type": "large_airport",
+        "name": "San Antonio International Airport",
+        "iso_country": "US",
+        "municipality": "San Antonio",
+        "scheduled_service": "yes",
+        "iata_code": "SAT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Savannah Hilton Head International Airport",
+        "iso_country": "US",
+        "municipality": "Savannah",
+        "scheduled_service": "yes",
+        "iata_code": "SAV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Louisville Muhammad Ali International Airport",
+        "iso_country": "US",
+        "municipality": "Louisville",
+        "scheduled_service": "yes",
+        "iata_code": "SDF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Seattle Tacoma International Airport",
+        "iso_country": "US",
+        "municipality": "Seattle",
+        "scheduled_service": "yes",
+        "iata_code": "SEA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Orlando Sanford International Airport",
+        "iso_country": "US",
+        "municipality": "Orlando",
+        "scheduled_service": "yes",
+        "iata_code": "SFB"
+    },
+    {
+        "type": "large_airport",
+        "name": "San Francisco International Airport",
+        "iso_country": "US",
+        "municipality": "San Francisco",
+        "scheduled_service": "yes",
+        "iata_code": "SFO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Norman Y. Mineta San Jose International Airport",
+        "iso_country": "US",
+        "municipality": "San Jose",
+        "scheduled_service": "yes",
+        "iata_code": "SJC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Salt Lake City International Airport",
+        "iso_country": "US",
+        "municipality": "Salt Lake City",
+        "scheduled_service": "yes",
+        "iata_code": "SLC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sacramento International Airport",
+        "iso_country": "US",
+        "municipality": "Sacramento",
+        "scheduled_service": "yes",
+        "iata_code": "SMF"
+    },
+    {
+        "type": "large_airport",
+        "name": "St Louis Lambert International Airport",
+        "iso_country": "US",
+        "municipality": "St Louis",
+        "scheduled_service": "yes",
+        "iata_code": "STL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Syracuse Hancock International Airport",
+        "iso_country": "US",
+        "municipality": "Syracuse",
+        "scheduled_service": "yes",
+        "iata_code": "SYR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tampa International Airport",
+        "iso_country": "US",
+        "municipality": "Tampa",
+        "scheduled_service": "yes",
+        "iata_code": "TPA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tulsa International Airport",
+        "iso_country": "US",
+        "municipality": "Tulsa",
+        "scheduled_service": "yes",
+        "iata_code": "TUL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tirana International Airport Mother Teresa",
+        "iso_country": "AL",
+        "municipality": "Tirana",
+        "scheduled_service": "yes",
+        "iata_code": "TIA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Burgas Airport",
+        "iso_country": "BG",
+        "municipality": "Burgas",
+        "scheduled_service": "yes",
+        "iata_code": "BOJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sofia Airport",
+        "iso_country": "BG",
+        "municipality": "Sofia",
+        "scheduled_service": "yes",
+        "iata_code": "SOF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Varna Airport",
+        "iso_country": "BG",
+        "municipality": "Varna",
+        "scheduled_service": "yes",
+        "iata_code": "VAR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Larnaca International Airport",
+        "iso_country": "CY",
+        "municipality": "Larnaca",
+        "scheduled_service": "yes",
+        "iata_code": "LCA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Zagreb Airport",
+        "iso_country": "HR",
+        "municipality": "Zagreb",
+        "scheduled_service": "yes",
+        "iata_code": "ZAG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport",
+        "iso_country": "ES",
+        "municipality": "Alicante",
+        "scheduled_service": "yes",
+        "iata_code": "ALC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport",
+        "iso_country": "ES",
+        "municipality": "Barcelona",
+        "scheduled_service": "yes",
+        "iata_code": "BCN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ibiza Airport",
+        "iso_country": "ES",
+        "municipality": "Ibiza",
+        "scheduled_service": "yes",
+        "iata_code": "IBZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+        "iso_country": "ES",
+        "municipality": "Madrid",
+        "scheduled_service": "yes",
+        "iata_code": "MAD"
+    },
+    {
+        "type": "large_airport",
+        "name": "M\u00e1laga-Costa del Sol Airport",
+        "iso_country": "ES",
+        "municipality": "M\u00e1laga",
+        "scheduled_service": "yes",
+        "iata_code": "AGP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Palma de Mallorca Airport",
+        "iso_country": "ES",
+        "municipality": "Palma De Mallorca",
+        "scheduled_service": "yes",
+        "iata_code": "PMI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Santiago-Rosal\u00eda de Castro Airport",
+        "iso_country": "ES",
+        "municipality": "Santiago de Compostela",
+        "scheduled_service": "yes",
+        "iata_code": "SCQ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Bordeaux-M\u00e9rignac Airport",
+        "iso_country": "FR",
+        "municipality": "Bordeaux/M\u00e9rignac",
+        "scheduled_service": "yes",
+        "iata_code": "BOD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Toulouse-Blagnac Airport",
+        "iso_country": "FR",
+        "municipality": "Toulouse/Blagnac",
+        "scheduled_service": "yes",
+        "iata_code": "TLS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lyon Saint-Exup\u00e9ry Airport",
+        "iso_country": "FR",
+        "municipality": "Lyon",
+        "scheduled_service": "yes",
+        "iata_code": "LYS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Marseille Provence Airport",
+        "iso_country": "FR",
+        "municipality": "Marseille",
+        "scheduled_service": "yes",
+        "iata_code": "MRS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nice-C\u00f4te d'Azur Airport",
+        "iso_country": "FR",
+        "municipality": "Nice",
+        "scheduled_service": "yes",
+        "iata_code": "NCE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Charles de Gaulle International Airport",
+        "iso_country": "FR",
+        "municipality": "Paris",
+        "scheduled_service": "yes",
+        "iata_code": "CDG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Paris-Orly Airport",
+        "iso_country": "FR",
+        "municipality": "Paris",
+        "scheduled_service": "yes",
+        "iata_code": "ORY"
+    },
+    {
+        "type": "large_airport",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
+        "iso_country": "FR",
+        "municipality": "B\u00e2le/Mulhouse",
+        "scheduled_service": "yes",
+        "iata_code": "BSL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Athens Eleftherios Venizelos International Airport",
+        "iso_country": "GR",
+        "municipality": "Athens",
+        "scheduled_service": "yes",
+        "iata_code": "ATH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Heraklion International Nikos Kazantzakis Airport",
+        "iso_country": "GR",
+        "municipality": "Heraklion",
+        "scheduled_service": "yes",
+        "iata_code": "HER"
+    },
+    {
+        "type": "large_airport",
+        "name": "Thessaloniki Macedonia International Airport",
+        "iso_country": "GR",
+        "municipality": "Thessaloniki",
+        "scheduled_service": "yes",
+        "iata_code": "SKG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Budapest Liszt Ferenc International Airport",
+        "iso_country": "HU",
+        "municipality": "Budapest",
+        "scheduled_service": "yes",
+        "iata_code": "BUD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lake Havasu City International Airport",
+        "iso_country": "US",
+        "municipality": "Lake Havasu City",
+        "scheduled_service": "yes",
+        "iata_code": "LHS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Catania-Fontanarossa Airport",
+        "iso_country": "IT",
+        "municipality": "Catania",
+        "scheduled_service": "yes",
+        "iata_code": "CTA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Falcone\u2013Borsellino Airport",
+        "iso_country": "IT",
+        "municipality": "Palermo",
+        "scheduled_service": "yes",
+        "iata_code": "PMO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cagliari Elmas Airport",
+        "iso_country": "IT",
+        "municipality": "Cagliari",
+        "scheduled_service": "yes",
+        "iata_code": "CAG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Malpensa International Airport",
+        "iso_country": "IT",
+        "municipality": "Milan",
+        "scheduled_service": "yes",
+        "iata_code": "MXP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Milan Bergamo Airport",
+        "iso_country": "IT",
+        "municipality": "Milan",
+        "scheduled_service": "yes",
+        "iata_code": "BGY"
+    },
+    {
+        "type": "large_airport",
+        "name": "Turin Airport",
+        "iso_country": "IT",
+        "municipality": "Torino",
+        "scheduled_service": "yes",
+        "iata_code": "TRN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Bologna Guglielmo Marconi Airport",
+        "iso_country": "IT",
+        "municipality": "Bologna",
+        "scheduled_service": "yes",
+        "iata_code": "BLQ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Verona Villafranca Airport",
+        "iso_country": "IT",
+        "municipality": "Verona",
+        "scheduled_service": "yes",
+        "iata_code": "VRN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Venice Marco Polo Airport",
+        "iso_country": "IT",
+        "municipality": "Venice",
+        "scheduled_service": "yes",
+        "iata_code": "VCE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport",
+        "iso_country": "IT",
+        "municipality": "Rome",
+        "scheduled_service": "yes",
+        "iata_code": "FCO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Naples International Airport",
+        "iso_country": "IT",
+        "municipality": "N\u00e1poli",
+        "scheduled_service": "yes",
+        "iata_code": "NAP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Pisa International Airport",
+        "iso_country": "IT",
+        "municipality": "Pisa",
+        "scheduled_service": "yes",
+        "iata_code": "PSA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ljubljana Jo\u017ee Pu\u010dnik Airport",
+        "iso_country": "SI",
+        "municipality": "Ljubljana",
+        "scheduled_service": "yes",
+        "iata_code": "LJU"
+    },
+    {
+        "type": "large_airport",
+        "name": "V\u00e1clav Havel Airport Prague",
+        "iso_country": "CZ",
+        "municipality": "Prague",
+        "scheduled_service": "yes",
+        "iata_code": "PRG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ben Gurion International Airport",
+        "iso_country": "IL",
+        "municipality": "Tel Aviv",
+        "scheduled_service": "yes",
+        "iata_code": "TLV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ramon Airport",
+        "iso_country": "IL",
+        "municipality": "Eilat",
+        "scheduled_service": "yes",
+        "iata_code": "ETM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Malta International Airport",
+        "iso_country": "MT",
+        "municipality": "Valletta",
+        "scheduled_service": "yes",
+        "iata_code": "MLA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Vienna International Airport",
+        "iso_country": "AT",
+        "municipality": "Vienna",
+        "scheduled_service": "yes",
+        "iata_code": "VIE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Faro Airport",
+        "iso_country": "PT",
+        "municipality": "Faro",
+        "scheduled_service": "yes",
+        "iata_code": "FAO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jo\u00e3o Paulo II Airport",
+        "iso_country": "PT",
+        "municipality": "Ponta Delgada",
+        "scheduled_service": "yes",
+        "iata_code": "PDL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Francisco de S\u00e1 Carneiro Airport",
+        "iso_country": "PT",
+        "municipality": "Porto",
+        "scheduled_service": "yes",
+        "iata_code": "OPO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
+        "iso_country": "PT",
+        "municipality": "Lisbon",
+        "scheduled_service": "yes",
+        "iata_code": "LIS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Henri Coand\u0103 International Airport",
+        "iso_country": "RO",
+        "municipality": "Bucharest",
+        "scheduled_service": "yes",
+        "iata_code": "OTP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Geneva Cointrin International Airport",
+        "iso_country": "CH",
+        "municipality": "Geneva",
+        "scheduled_service": "yes",
+        "iata_code": "GVA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Z\u00fcrich Airport",
+        "iso_country": "CH",
+        "municipality": "Zurich",
+        "scheduled_service": "yes",
+        "iata_code": "ZRH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Esenbo\u011fa International Airport",
+        "iso_country": "TR",
+        "municipality": "Ankara",
+        "scheduled_service": "yes",
+        "iata_code": "ESB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Antalya International Airport",
+        "iso_country": "TR",
+        "municipality": "Antalya",
+        "scheduled_service": "yes",
+        "iata_code": "AYT"
+    },
+    {
+        "type": "large_airport",
+        "name": "\u0130stanbul Atat\u00fcrk Airport",
+        "iso_country": "TR",
+        "municipality": "Bak\u0131rk\u00f6y, Istanbul",
+        "scheduled_service": "yes",
+        "iata_code": "ISL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Adnan Menderes International Airport",
+        "iso_country": "TR",
+        "municipality": "\u0130zmir",
+        "scheduled_service": "yes",
+        "iata_code": "ADB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Dalaman International Airport",
+        "iso_country": "TR",
+        "municipality": "Dalaman",
+        "scheduled_service": "yes",
+        "iata_code": "DLM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Milas Bodrum International Airport",
+        "iso_country": "TR",
+        "municipality": "Bodrum",
+        "scheduled_service": "yes",
+        "iata_code": "BJV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport",
+        "iso_country": "TR",
+        "municipality": "Pendik, Istanbul",
+        "scheduled_service": "yes",
+        "iata_code": "SAW"
+    },
+    {
+        "type": "large_airport",
+        "name": "\u0130stanbul Airport",
+        "iso_country": "TR",
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "scheduled_service": "yes",
+        "iata_code": "IST"
+    },
+    {
+        "type": "large_airport",
+        "name": "Skopje International Airport",
+        "iso_country": "MK",
+        "municipality": "Skopje",
+        "scheduled_service": "yes",
+        "iata_code": "SKP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Belgrade Nikola Tesla Airport",
+        "iso_country": "RS",
+        "municipality": "Belgrade",
+        "scheduled_service": "yes",
+        "iata_code": "BEG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+        "iso_country": "ME",
+        "municipality": "Podgorica",
+        "scheduled_service": "yes",
+        "iata_code": "TGD"
+    },
+    {
+        "type": "large_airport",
+        "name": "M. R. \u0160tef\u00e1nik Airport",
+        "iso_country": "SK",
+        "municipality": "Bratislava",
+        "scheduled_service": "yes",
+        "iata_code": "BTS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Providenciales International Airport",
+        "iso_country": "TC",
+        "municipality": "Providenciales",
+        "scheduled_service": "yes",
+        "iata_code": "PLS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Punta Cana International Airport",
+        "iso_country": "DO",
+        "municipality": "Punta Cana",
+        "scheduled_service": "yes",
+        "iata_code": "PUJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Las Am\u00e9ricas International Airport",
+        "iso_country": "DO",
+        "municipality": "Santo Domingo",
+        "scheduled_service": "yes",
+        "iata_code": "SDQ"
+    },
+    {
+        "type": "large_airport",
+        "name": "La Aurora Airport",
+        "iso_country": "GT",
+        "municipality": "Guatemala City",
+        "scheduled_service": "yes",
+        "iata_code": "GUA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Norman Manley International Airport",
+        "iso_country": "JM",
+        "municipality": "Kingston",
+        "scheduled_service": "yes",
+        "iata_code": "KIN"
+    },
+    {
+        "type": "large_airport",
+        "name": "General Juan N Alvarez International Airport",
+        "iso_country": "MX",
+        "municipality": "Acapulco",
+        "scheduled_service": "yes",
+        "iata_code": "ACA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Don Miguel Hidalgo Y Costilla International Airport",
+        "iso_country": "MX",
+        "municipality": "Guadalajara",
+        "scheduled_service": "yes",
+        "iata_code": "GDL"
+    },
+    {
+        "type": "large_airport",
+        "name": "General Ignacio P. Garcia International Airport",
+        "iso_country": "MX",
+        "municipality": "Hermosillo",
+        "scheduled_service": "yes",
+        "iata_code": "HMO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Licenciado Benito Juarez International Airport",
+        "iso_country": "MX",
+        "municipality": "Mexico City",
+        "scheduled_service": "yes",
+        "iata_code": "MEX"
+    },
+    {
+        "type": "large_airport",
+        "name": "General Rafael Buelna International Airport",
+        "iso_country": "MX",
+        "municipality": "Mazatl\u00e1n",
+        "scheduled_service": "yes",
+        "iata_code": "MZT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Licenciado Gustavo D\u00edaz Ordaz International Airport",
+        "iso_country": "MX",
+        "municipality": "Puerto Vallarta",
+        "scheduled_service": "yes",
+        "iata_code": "PVR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Los Cabos International Airport",
+        "iso_country": "MX",
+        "municipality": "San Jos\u00e9 del Cabo",
+        "scheduled_service": "yes",
+        "iata_code": "SJD"
+    },
+    {
+        "type": "large_airport",
+        "name": "General Abelardo L. Rodr\u00edguez International Airport",
+        "iso_country": "MX",
+        "municipality": "Tijuana",
+        "scheduled_service": "yes",
+        "iata_code": "TIJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Canc\u00fan International Airport",
+        "iso_country": "MX",
+        "municipality": "Canc\u00fan",
+        "scheduled_service": "yes",
+        "iata_code": "CUN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tocumen International Airport",
+        "iso_country": "PA",
+        "municipality": "Tocumen",
+        "scheduled_service": "yes",
+        "iata_code": "PTY"
+    },
+    {
+        "type": "large_airport",
+        "name": "Guanacaste Airport",
+        "iso_country": "CR",
+        "municipality": "Liberia",
+        "scheduled_service": "yes",
+        "iata_code": "LIR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Monse\u00f1or \u00d3scar Arnulfo Romero International Airport",
+        "iso_country": "SV",
+        "municipality": "San Salvador (San Luis Talpa)",
+        "scheduled_service": "yes",
+        "iata_code": "SAL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Toussaint Louverture International Airport",
+        "iso_country": "HT",
+        "municipality": "Port-au-Prince",
+        "scheduled_service": "yes",
+        "iata_code": "PAP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jos\u00e9 Mart\u00ed International Airport",
+        "iso_country": "CU",
+        "municipality": "Havana",
+        "scheduled_service": "yes",
+        "iata_code": "HAV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Juan Gualberto Gomez International Airport",
+        "iso_country": "CU",
+        "municipality": "Varadero",
+        "scheduled_service": "yes",
+        "iata_code": "VRA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Owen Roberts International Airport",
+        "iso_country": "KY",
+        "municipality": "Georgetown",
+        "scheduled_service": "yes",
+        "iata_code": "GCM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lynden Pindling International Airport",
+        "iso_country": "BS",
+        "municipality": "Nassau",
+        "scheduled_service": "yes",
+        "iata_code": "NAS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Philip S. W. Goldson International Airport",
+        "iso_country": "BZ",
+        "municipality": "Belize City",
+        "scheduled_service": "yes",
+        "iata_code": "BZE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Rarotonga International Airport",
+        "iso_country": "CK",
+        "municipality": "Avarua",
+        "scheduled_service": "yes",
+        "iata_code": "RAR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Faa'a International Airport",
+        "iso_country": "PF",
+        "municipality": "Papeete",
+        "scheduled_service": "yes",
+        "iata_code": "PPT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Bauerfield International Airport",
+        "iso_country": "VU",
+        "municipality": "Port Vila",
+        "scheduled_service": "yes",
+        "iata_code": "VLI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Noum\u00e9a Magenta Airport",
+        "iso_country": "NC",
+        "municipality": "Noum\u00e9a",
+        "scheduled_service": "yes",
+        "iata_code": "GEA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Auckland International Airport",
+        "iso_country": "NZ",
+        "municipality": "Auckland",
+        "scheduled_service": "yes",
+        "iata_code": "AKL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Christchurch International Airport",
+        "iso_country": "NZ",
+        "municipality": "Christchurch",
+        "scheduled_service": "yes",
+        "iata_code": "CHC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Wellington International Airport",
+        "iso_country": "NZ",
+        "municipality": "Wellington",
+        "scheduled_service": "yes",
+        "iata_code": "WLG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Bahrain International Airport",
+        "iso_country": "BH",
+        "municipality": "Manama",
+        "scheduled_service": "yes",
+        "iata_code": "BAH"
+    },
+    {
+        "type": "large_airport",
+        "name": "King Fahd International Airport",
+        "iso_country": "SA",
+        "municipality": "Ad Dammam",
+        "scheduled_service": "yes",
+        "iata_code": "DMM"
+    },
+    {
+        "type": "large_airport",
+        "name": "King Abdulaziz International Airport",
+        "iso_country": "SA",
+        "municipality": "Jeddah",
+        "scheduled_service": "yes",
+        "iata_code": "JED"
+    },
+    {
+        "type": "large_airport",
+        "name": "Prince Mohammad Bin Abdulaziz Airport",
+        "iso_country": "SA",
+        "municipality": "Medina",
+        "scheduled_service": "yes",
+        "iata_code": "MED"
+    },
+    {
+        "type": "large_airport",
+        "name": "King Khaled International Airport",
+        "iso_country": "SA",
+        "municipality": "Riyadh",
+        "scheduled_service": "yes",
+        "iata_code": "RUH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Imam Khomeini International Airport",
+        "iso_country": "IR",
+        "municipality": "Tehran",
+        "scheduled_service": "yes",
+        "iata_code": "IKA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mehrabad International Airport",
+        "iso_country": "IR",
+        "municipality": "Tehran",
+        "scheduled_service": "yes",
+        "iata_code": "THR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mashhad International Airport",
+        "iso_country": "IR",
+        "municipality": "Mashhad",
+        "scheduled_service": "yes",
+        "iata_code": "MHD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Shiraz Shahid Dastghaib International Airport",
+        "iso_country": "IR",
+        "municipality": "Shiraz",
+        "scheduled_service": "yes",
+        "iata_code": "SYZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Queen Alia International Airport",
+        "iso_country": "JO",
+        "municipality": "Amman",
+        "scheduled_service": "yes",
+        "iata_code": "AMM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kuwait International Airport",
+        "iso_country": "KW",
+        "municipality": "Kuwait City",
+        "scheduled_service": "yes",
+        "iata_code": "KWI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Beirut Rafic Hariri International Airport",
+        "iso_country": "LB",
+        "municipality": "Beirut",
+        "scheduled_service": "yes",
+        "iata_code": "BEY"
+    },
+    {
+        "type": "large_airport",
+        "name": "Duqm International Airport",
+        "iso_country": "OM",
+        "municipality": "Duqm",
+        "scheduled_service": "yes",
+        "iata_code": "DQM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Abu Dhabi International Airport",
+        "iso_country": "AE",
+        "municipality": "Abu Dhabi",
+        "scheduled_service": "yes",
+        "iata_code": "AUH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Dubai International Airport",
+        "iso_country": "AE",
+        "municipality": "Dubai",
+        "scheduled_service": "yes",
+        "iata_code": "DXB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Al Maktoum International Airport",
+        "iso_country": "AE",
+        "municipality": "Jebel Ali",
+        "scheduled_service": "yes",
+        "iata_code": "DWC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sharjah International Airport",
+        "iso_country": "AE",
+        "municipality": "Sharjah",
+        "scheduled_service": "yes",
+        "iata_code": "SHJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Muscat International Airport",
+        "iso_country": "OM",
+        "municipality": "Muscat",
+        "scheduled_service": "yes",
+        "iata_code": "MCT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Islamabad International Airport",
+        "iso_country": "PK",
+        "municipality": "Islamabad",
+        "scheduled_service": "yes",
+        "iata_code": "ISB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jinnah International Airport",
+        "iso_country": "PK",
+        "municipality": "Karachi",
+        "scheduled_service": "yes",
+        "iata_code": "KHI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Baghdad International Airport / New Al Muthana Air Base",
+        "iso_country": "IQ",
+        "municipality": "Baghdad",
+        "scheduled_service": "yes",
+        "iata_code": "BGW"
+    },
+    {
+        "type": "large_airport",
+        "name": "Damascus International Airport",
+        "iso_country": "SY",
+        "municipality": "Damascus",
+        "scheduled_service": "yes",
+        "iata_code": "DAM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hamad International Airport",
+        "iso_country": "QA",
+        "municipality": "Doha",
+        "scheduled_service": "yes",
+        "iata_code": "DOH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Fairbanks International Airport",
+        "iso_country": "US",
+        "municipality": "Fairbanks",
+        "scheduled_service": "yes",
+        "iata_code": "FAI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ted Stevens Anchorage International Airport",
+        "iso_country": "US",
+        "municipality": "Anchorage",
+        "scheduled_service": "yes",
+        "iata_code": "ANC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Antonio B. Won Pat International Airport",
+        "iso_country": "GU",
+        "municipality": "Hag\u00e5t\u00f1a, Guam International Airport",
+        "scheduled_service": "yes",
+        "iata_code": "GUM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Daniel K Inouye International Airport",
+        "iso_country": "US",
+        "municipality": "Honolulu",
+        "scheduled_service": "yes",
+        "iata_code": "HNL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kaohsiung International Airport",
+        "iso_country": "TW",
+        "municipality": "Kaohsiung (Xiaogang)",
+        "scheduled_service": "yes",
+        "iata_code": "KHH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Taiwan Taoyuan International Airport",
+        "iso_country": "TW",
+        "municipality": "Taipei",
+        "scheduled_service": "yes",
+        "iata_code": "TPE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Narita International Airport",
+        "iso_country": "JP",
+        "municipality": "Tokyo",
+        "scheduled_service": "yes",
+        "iata_code": "NRT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kansai International Airport",
+        "iso_country": "JP",
+        "municipality": "Osaka",
+        "scheduled_service": "yes",
+        "iata_code": "KIX"
+    },
+    {
+        "type": "large_airport",
+        "name": "New Chitose Airport",
+        "iso_country": "JP",
+        "municipality": "Sapporo",
+        "scheduled_service": "yes",
+        "iata_code": "CTS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Fukuoka Airport",
+        "iso_country": "JP",
+        "municipality": "Fukuoka",
+        "scheduled_service": "yes",
+        "iata_code": "FUK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kagoshima Airport",
+        "iso_country": "JP",
+        "municipality": "Kagoshima",
+        "scheduled_service": "yes",
+        "iata_code": "KOJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chubu Centrair International Airport",
+        "iso_country": "JP",
+        "municipality": "Tokoname",
+        "scheduled_service": "yes",
+        "iata_code": "NGO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Osaka International Airport",
+        "iso_country": "JP",
+        "municipality": "Osaka",
+        "scheduled_service": "yes",
+        "iata_code": "ITM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sendai Airport",
+        "iso_country": "JP",
+        "municipality": "Natori",
+        "scheduled_service": "yes",
+        "iata_code": "SDJ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tokyo Haneda International Airport",
+        "iso_country": "JP",
+        "municipality": "Tokyo",
+        "scheduled_service": "yes",
+        "iata_code": "HND"
+    },
+    {
+        "type": "large_airport",
+        "name": "Muan International Airport",
+        "iso_country": "KR",
+        "municipality": "Piseo-ri (Muan)",
+        "scheduled_service": "yes",
+        "iata_code": "MWX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jeju International Airport",
+        "iso_country": "KR",
+        "municipality": "Jeju City",
+        "scheduled_service": "yes",
+        "iata_code": "CJU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Gimhae International Airport",
+        "iso_country": "KR",
+        "municipality": "Busan",
+        "scheduled_service": "yes",
+        "iata_code": "PUS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Incheon International Airport",
+        "iso_country": "KR",
+        "municipality": "Seoul",
+        "scheduled_service": "yes",
+        "iata_code": "ICN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Gimpo International Airport",
+        "iso_country": "KR",
+        "municipality": "Seoul",
+        "scheduled_service": "yes",
+        "iata_code": "GMP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Naha Airport / JASDF Naha Air Base",
+        "iso_country": "JP",
+        "municipality": "Naha",
+        "scheduled_service": "yes",
+        "iata_code": "OKA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ninoy Aquino International Airport",
+        "iso_country": "PH",
+        "municipality": "Manila",
+        "scheduled_service": "yes",
+        "iata_code": "MNL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Francisco Bangoy International Airport",
+        "iso_country": "PH",
+        "municipality": "Davao",
+        "scheduled_service": "yes",
+        "iata_code": "DVO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mactan Cebu International Airport",
+        "iso_country": "PH",
+        "municipality": "Lapu-Lapu City",
+        "scheduled_service": "yes",
+        "iata_code": "CEB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Grozny North Airport",
+        "iso_country": "RU",
+        "municipality": "Grozny",
+        "scheduled_service": "yes",
+        "iata_code": "GRV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jorge Newbery Airpark",
+        "iso_country": "AR",
+        "municipality": "Buenos Aires",
+        "scheduled_service": "yes",
+        "iata_code": "AEP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ministro Pistarini International Airport",
+        "iso_country": "AR",
+        "municipality": "Buenos Aires (Ezeiza)",
+        "scheduled_service": "yes",
+        "iata_code": "EZE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Val de Cans/J\u00falio Cezar Ribeiro International Airport",
+        "iso_country": "BR",
+        "municipality": "Bel\u00e9m",
+        "scheduled_service": "yes",
+        "iata_code": "BEL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Presidente Juscelino Kubitschek International Airport",
+        "iso_country": "BR",
+        "municipality": "Bras\u00edlia",
+        "scheduled_service": "yes",
+        "iata_code": "BSB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tancredo Neves International Airport",
+        "iso_country": "BR",
+        "municipality": "Belo Horizonte",
+        "scheduled_service": "yes",
+        "iata_code": "CNF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Eduardo Gomes International Airport",
+        "iso_country": "BR",
+        "municipality": "Manaus",
+        "scheduled_service": "yes",
+        "iata_code": "MAO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Herc\u00edlio Luz International Airport",
+        "iso_country": "BR",
+        "municipality": "Florian\u00f3polis",
+        "scheduled_service": "yes",
+        "iata_code": "FLN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Rio Gale\u00e3o \u2013 Tom Jobim International Airport",
+        "iso_country": "BR",
+        "municipality": "Rio De Janeiro",
+        "scheduled_service": "yes",
+        "iata_code": "GIG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Guarulhos - Governador Andr\u00e9 Franco Montoro International Airport",
+        "iso_country": "BR",
+        "municipality": "S\u00e3o Paulo",
+        "scheduled_service": "yes",
+        "iata_code": "GRU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Deputado Luiz Eduardo Magalh\u00e3es International Airport",
+        "iso_country": "BR",
+        "municipality": "Salvador",
+        "scheduled_service": "yes",
+        "iata_code": "SSA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Comodoro Arturo Merino Ben\u00edtez International Airport",
+        "iso_country": "CL",
+        "municipality": "Santiago",
+        "scheduled_service": "yes",
+        "iata_code": "SCL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jos\u00e9 Joaqu\u00edn de Olmedo International Airport",
+        "iso_country": "EC",
+        "municipality": "Guayaquil",
+        "scheduled_service": "yes",
+        "iata_code": "GYE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mariscal Sucre International Airport",
+        "iso_country": "EC",
+        "municipality": "Quito",
+        "scheduled_service": "yes",
+        "iata_code": "UIO"
+    },
+    {
+        "type": "large_airport",
+        "name": "El Dorado International Airport",
+        "iso_country": "CO",
+        "municipality": "Bogota",
+        "scheduled_service": "yes",
+        "iata_code": "BOG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Viru Viru International Airport",
+        "iso_country": "BO",
+        "municipality": "Santa Cruz",
+        "scheduled_service": "yes",
+        "iata_code": "VVI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Johan Adolf Pengel International Airport",
+        "iso_country": "SR",
+        "municipality": "Zandery",
+        "scheduled_service": "yes",
+        "iata_code": "PBM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cayenne \u2013 F\u00e9lix Ebou\u00e9 Airport",
+        "iso_country": "GF",
+        "municipality": "Matoury",
+        "scheduled_service": "yes",
+        "iata_code": "CAY"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jorge Ch\u00e1vez International Airport",
+        "iso_country": "PE",
+        "municipality": "Lima",
+        "scheduled_service": "yes",
+        "iata_code": "LIM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Alejandro Velasco Astete International Airport",
+        "iso_country": "PE",
+        "municipality": "Cusco",
+        "scheduled_service": "yes",
+        "iata_code": "CUZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Carrasco International /General C L Berisso Airport",
+        "iso_country": "UY",
+        "municipality": "Montevideo",
+        "scheduled_service": "yes",
+        "iata_code": "MVD"
+    },
+    {
+        "type": "large_airport",
+        "name": "General Jos\u00e9 Antonio Anzoategui International Airport",
+        "iso_country": "VE",
+        "municipality": "Barcelona",
+        "scheduled_service": "yes",
+        "iata_code": "BLA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sim\u00f3n Bol\u00edvar International Airport",
+        "iso_country": "VE",
+        "municipality": "Caracas",
+        "scheduled_service": "yes",
+        "iata_code": "CCS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Martinique Aim\u00e9 C\u00e9saire International Airport",
+        "iso_country": "MQ",
+        "municipality": "Fort-de-France",
+        "scheduled_service": "yes",
+        "iata_code": "FDF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Pointe-\u00e0-Pitre Le Raizet International  Airport",
+        "iso_country": "GP",
+        "municipality": "Pointe-\u00e0-Pitre",
+        "scheduled_service": "yes",
+        "iata_code": "PTP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Luis Munoz Marin International Airport",
+        "iso_country": "PR",
+        "municipality": "San Juan",
+        "scheduled_service": "yes",
+        "iata_code": "SJU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hewanorra International Airport",
+        "iso_country": "LC",
+        "municipality": "Vieux Fort",
+        "scheduled_service": "yes",
+        "iata_code": "UVF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Enfidha - Hammamet International Airport",
+        "iso_country": "TN",
+        "municipality": "Enfidha",
+        "scheduled_service": "yes",
+        "iata_code": "NBE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Queen Beatrix International Airport",
+        "iso_country": "AW",
+        "municipality": "Oranjestad",
+        "scheduled_service": "yes",
+        "iata_code": "AUA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Flamingo International Airport",
+        "iso_country": "BQ",
+        "municipality": "Kralendijk, Bonaire",
+        "scheduled_service": "yes",
+        "iata_code": "BON"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hato International Airport",
+        "iso_country": "CW",
+        "municipality": "Willemstad",
+        "scheduled_service": "yes",
+        "iata_code": "CUR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Princess Juliana International Airport",
+        "iso_country": "SX",
+        "municipality": "Saint Martin",
+        "scheduled_service": "yes",
+        "iata_code": "SXM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Almaty Airport",
+        "iso_country": "KZ",
+        "municipality": "Almaty",
+        "scheduled_service": "yes",
+        "iata_code": "ALA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nursultan Nazarbayev International Airport",
+        "iso_country": "KZ",
+        "municipality": "Nur-Sultan",
+        "scheduled_service": "yes",
+        "iata_code": "NQZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Manas International Airport",
+        "iso_country": "KG",
+        "municipality": "Bishkek",
+        "scheduled_service": "yes",
+        "iata_code": "FRU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hazrat Sultan International Airport",
+        "iso_country": "KZ",
+        "municipality": "",
+        "scheduled_service": "yes",
+        "iata_code": "HSA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Heydar Aliyev International Airport",
+        "iso_country": "AZ",
+        "municipality": "Baku",
+        "scheduled_service": "yes",
+        "iata_code": "GYD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Zvartnots International Airport",
+        "iso_country": "AM",
+        "municipality": "Yerevan",
+        "scheduled_service": "yes",
+        "iata_code": "EVN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tbilisi International Airport",
+        "iso_country": "GE",
+        "municipality": "Tbilisi",
+        "scheduled_service": "yes",
+        "iata_code": "TBS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Vladivostok International Airport",
+        "iso_country": "RU",
+        "municipality": "Artyom",
+        "scheduled_service": "yes",
+        "iata_code": "VVO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Boryspil International Airport",
+        "iso_country": "UA",
+        "municipality": "Kiev",
+        "scheduled_service": "yes",
+        "iata_code": "KBP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Lviv International Airport",
+        "iso_country": "UA",
+        "municipality": "Lviv",
+        "scheduled_service": "yes",
+        "iata_code": "LWO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Pulkovo Airport",
+        "iso_country": "RU",
+        "municipality": "St. Petersburg",
+        "scheduled_service": "yes",
+        "iata_code": "LED"
+    },
+    {
+        "type": "large_airport",
+        "name": "Minsk National Airport",
+        "iso_country": "BY",
+        "municipality": "Minsk",
+        "scheduled_service": "yes",
+        "iata_code": "MSQ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Krasnoyarsk International Airport",
+        "iso_country": "RU",
+        "municipality": "Krasnoyarsk",
+        "scheduled_service": "yes",
+        "iata_code": "KJA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Novosibirsk Tolmachevo Airport",
+        "iso_country": "RU",
+        "municipality": "Novosibirsk",
+        "scheduled_service": "yes",
+        "iata_code": "OVB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Platov International Airport",
+        "iso_country": "RU",
+        "municipality": "Rostov-on-Don",
+        "scheduled_service": "yes",
+        "iata_code": "ROV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sochi International Airport",
+        "iso_country": "RU",
+        "municipality": "Sochi",
+        "scheduled_service": "yes",
+        "iata_code": "AER"
+    },
+    {
+        "type": "large_airport",
+        "name": "Koltsovo Airport",
+        "iso_country": "RU",
+        "municipality": "Yekaterinburg",
+        "scheduled_service": "yes",
+        "iata_code": "SVX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ashgabat International Airport",
+        "iso_country": "TM",
+        "municipality": "Ashgabat",
+        "scheduled_service": "yes",
+        "iata_code": "ASB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tashkent International Airport",
+        "iso_country": "UZ",
+        "municipality": "Tashkent",
+        "scheduled_service": "yes",
+        "iata_code": "TAS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Zhukovsky International Airport",
+        "iso_country": "RU",
+        "municipality": "Moscow",
+        "scheduled_service": "yes",
+        "iata_code": "ZIA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Domodedovo International Airport",
+        "iso_country": "RU",
+        "municipality": "Moscow",
+        "scheduled_service": "yes",
+        "iata_code": "DME"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sheremetyevo International Airport",
+        "iso_country": "RU",
+        "municipality": "Moscow",
+        "scheduled_service": "yes",
+        "iata_code": "SVO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Vnukovo International Airport",
+        "iso_country": "RU",
+        "municipality": "Moscow",
+        "scheduled_service": "yes",
+        "iata_code": "VKO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kazan International Airport",
+        "iso_country": "RU",
+        "municipality": "Kazan",
+        "scheduled_service": "yes",
+        "iata_code": "KZN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Gagarin International Airport",
+        "iso_country": "RU",
+        "municipality": "Saratov",
+        "scheduled_service": "yes",
+        "iata_code": "GSV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ufa International Airport",
+        "iso_country": "RU",
+        "municipality": "Ufa",
+        "scheduled_service": "yes",
+        "iata_code": "UFA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kurumoch International Airport",
+        "iso_country": "RU",
+        "municipality": "Samara",
+        "scheduled_service": "yes",
+        "iata_code": "KUF"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chhatrapati Shivaji International Airport",
+        "iso_country": "IN",
+        "municipality": "Mumbai",
+        "scheduled_service": "yes",
+        "iata_code": "BOM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Dabolim Airport",
+        "iso_country": "IN",
+        "municipality": "Vasco da Gama",
+        "scheduled_service": "yes",
+        "iata_code": "GOI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Bandaranaike International Colombo Airport",
+        "iso_country": "LK",
+        "municipality": "Colombo",
+        "scheduled_service": "yes",
+        "iata_code": "CMB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mattala Rajapaksa International Airport",
+        "iso_country": "LK",
+        "municipality": "",
+        "scheduled_service": "yes",
+        "iata_code": "HRI"
+    },
+    {
+        "type": "large_airport",
+        "name": "Phnom Penh International Airport",
+        "iso_country": "KH",
+        "municipality": "Phnom Penh (Pou Senchey)",
+        "scheduled_service": "yes",
+        "iata_code": "PNH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Siem Reap International Airport",
+        "iso_country": "KH",
+        "municipality": "Siem Reap",
+        "scheduled_service": "yes",
+        "iata_code": "REP"
+    },
+    {
+        "type": "large_airport",
+        "name": "Netaji Subhash Chandra Bose International Airport",
+        "iso_country": "IN",
+        "municipality": "Kolkata",
+        "scheduled_service": "yes",
+        "iata_code": "CCU"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hazrat Shahjalal International Airport",
+        "iso_country": "BD",
+        "municipality": "Dhaka",
+        "scheduled_service": "yes",
+        "iata_code": "DAC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hong Kong International Airport",
+        "iso_country": "HK",
+        "municipality": "Hong Kong",
+        "scheduled_service": "yes",
+        "iata_code": "HKG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Indira Gandhi International Airport",
+        "iso_country": "IN",
+        "municipality": "New Delhi",
+        "scheduled_service": "yes",
+        "iata_code": "DEL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Macau International Airport",
+        "iso_country": "MO",
+        "municipality": "Freguesia de Nossa Senhora do Carmo (Taipa)",
+        "scheduled_service": "yes",
+        "iata_code": "MFM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tribhuvan International Airport",
+        "iso_country": "NP",
+        "municipality": "Kathmandu",
+        "scheduled_service": "yes",
+        "iata_code": "KTM"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kempegowda International Airport",
+        "iso_country": "IN",
+        "municipality": "Bangalore",
+        "scheduled_service": "yes",
+        "iata_code": "BLR"
+    },
+    {
+        "type": "large_airport",
+        "name": "Cochin International Airport",
+        "iso_country": "IN",
+        "municipality": "Kochi",
+        "scheduled_service": "yes",
+        "iata_code": "COK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Rajiv Gandhi International Airport",
+        "iso_country": "IN",
+        "municipality": "Hyderabad",
+        "scheduled_service": "yes",
+        "iata_code": "HYD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chennai International Airport",
+        "iso_country": "IN",
+        "municipality": "Chennai",
+        "scheduled_service": "yes",
+        "iata_code": "MAA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Trivandrum International Airport",
+        "iso_country": "IN",
+        "municipality": "Thiruvananthapuram",
+        "scheduled_service": "yes",
+        "iata_code": "TRV"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mal\u00e9 International Airport",
+        "iso_country": "MV",
+        "municipality": "Mal\u00e9",
+        "scheduled_service": "yes",
+        "iata_code": "MLE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Don Mueang International Airport",
+        "iso_country": "TH",
+        "municipality": "Bangkok",
+        "scheduled_service": "yes",
+        "iata_code": "DMK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Suvarnabhumi Airport",
+        "iso_country": "TH",
+        "municipality": "Bangkok",
+        "scheduled_service": "yes",
+        "iata_code": "BKK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chiang Mai International Airport",
+        "iso_country": "TH",
+        "municipality": "Chiang Mai",
+        "scheduled_service": "yes",
+        "iata_code": "CNX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Phuket International Airport",
+        "iso_country": "TH",
+        "municipality": "Phuket",
+        "scheduled_service": "yes",
+        "iata_code": "HKT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Noi Bai International Airport",
+        "iso_country": "VN",
+        "municipality": "Soc Son, Hanoi",
+        "scheduled_service": "yes",
+        "iata_code": "HAN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tan Son Nhat International Airport",
+        "iso_country": "VN",
+        "municipality": "Ho Chi Minh City",
+        "scheduled_service": "yes",
+        "iata_code": "SGN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Mandalay International Airport",
+        "iso_country": "MM",
+        "municipality": "Mandalay",
+        "scheduled_service": "yes",
+        "iata_code": "MDL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Yangon International Airport",
+        "iso_country": "MM",
+        "municipality": "Yangon",
+        "scheduled_service": "yes",
+        "iata_code": "RGN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hasanuddin International Airport",
+        "iso_country": "ID",
+        "municipality": "Ujung Pandang-Celebes Island",
+        "scheduled_service": "yes",
+        "iata_code": "UPG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ngurah Rai (Bali) International Airport",
+        "iso_country": "ID",
+        "municipality": "Denpasar-Bali Island",
+        "scheduled_service": "yes",
+        "iata_code": "DPS"
+    },
+    {
+        "type": "large_airport",
+        "name": "Juanda International Airport",
+        "iso_country": "ID",
+        "municipality": "Surabaya",
+        "scheduled_service": "yes",
+        "iata_code": "SUB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Brunei International Airport",
+        "iso_country": "BN",
+        "municipality": "Bandar Seri Begawan",
+        "scheduled_service": "yes",
+        "iata_code": "BWN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Soekarno-Hatta International Airport",
+        "iso_country": "ID",
+        "municipality": "Jakarta",
+        "scheduled_service": "yes",
+        "iata_code": "CGK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kuala Lumpur International Airport",
+        "iso_country": "MY",
+        "municipality": "Kuala Lumpur",
+        "scheduled_service": "yes",
+        "iata_code": "KUL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Singapore Changi Airport",
+        "iso_country": "SG",
+        "municipality": "Singapore",
+        "scheduled_service": "yes",
+        "iata_code": "SIN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Brisbane International Airport",
+        "iso_country": "AU",
+        "municipality": "Brisbane",
+        "scheduled_service": "yes",
+        "iata_code": "BNE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Melbourne International Airport",
+        "iso_country": "AU",
+        "municipality": "Melbourne",
+        "scheduled_service": "yes",
+        "iata_code": "MEL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Yantai Penglai International Airport",
+        "iso_country": "CN",
+        "municipality": "Yantai",
+        "scheduled_service": "yes",
+        "iata_code": "YNT"
+    },
+    {
+        "type": "large_airport",
+        "name": "Adelaide International Airport",
+        "iso_country": "AU",
+        "municipality": "Adelaide",
+        "scheduled_service": "yes",
+        "iata_code": "ADL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Perth International Airport",
+        "iso_country": "AU",
+        "municipality": "Perth",
+        "scheduled_service": "yes",
+        "iata_code": "PER"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sydney Kingsford Smith International Airport",
+        "iso_country": "AU",
+        "municipality": "Sydney",
+        "scheduled_service": "yes",
+        "iata_code": "SYD"
+    },
+    {
+        "type": "large_airport",
+        "name": "Beijing Capital International Airport",
+        "iso_country": "CN",
+        "municipality": "Beijing",
+        "scheduled_service": "yes",
+        "iata_code": "PEK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Beijing Daxing International Airport",
+        "iso_country": "CN",
+        "municipality": "Beijing",
+        "scheduled_service": "yes",
+        "iata_code": "PKX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Baita International Airport",
+        "iso_country": "CN",
+        "municipality": "Hohhot",
+        "scheduled_service": "yes",
+        "iata_code": "HET"
+    },
+    {
+        "type": "large_airport",
+        "name": "Tianjin Binhai International Airport",
+        "iso_country": "CN",
+        "municipality": "Tianjin",
+        "scheduled_service": "yes",
+        "iata_code": "TSN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Taiyuan Wusu Airport",
+        "iso_country": "CN",
+        "municipality": "Taiyuan",
+        "scheduled_service": "yes",
+        "iata_code": "TYN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Guangzhou Baiyun International Airport",
+        "iso_country": "CN",
+        "municipality": "Guangzhou (Huadu)",
+        "scheduled_service": "yes",
+        "iata_code": "CAN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Changsha Huanghua International Airport",
+        "iso_country": "CN",
+        "municipality": "Changsha",
+        "scheduled_service": "yes",
+        "iata_code": "CSX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Guilin Liangjiang International Airport",
+        "iso_country": "CN",
+        "municipality": "Guilin (Lingui)",
+        "scheduled_service": "yes",
+        "iata_code": "KWL"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nanning Wuxu Airport",
+        "iso_country": "CN",
+        "municipality": "Nanning (Jiangnan)",
+        "scheduled_service": "yes",
+        "iata_code": "NNG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Shenzhen Bao'an International Airport",
+        "iso_country": "CN",
+        "municipality": "Shenzhen (Bao'an)",
+        "scheduled_service": "yes",
+        "iata_code": "SZX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Zhengzhou Xinzheng International Airport",
+        "iso_country": "CN",
+        "municipality": "Zhengzhou",
+        "scheduled_service": "yes",
+        "iata_code": "CGO"
+    },
+    {
+        "type": "large_airport",
+        "name": "Wuhan Tianhe International Airport",
+        "iso_country": "CN",
+        "municipality": "Wuhan",
+        "scheduled_service": "yes",
+        "iata_code": "WUH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Haikou Meilan International Airport",
+        "iso_country": "CN",
+        "municipality": "Haikou (Meilan)",
+        "scheduled_service": "yes",
+        "iata_code": "HAK"
+    },
+    {
+        "type": "large_airport",
+        "name": "Sanya Phoenix International Airport",
+        "iso_country": "CN",
+        "municipality": "Sanya (Tianya)",
+        "scheduled_service": "yes",
+        "iata_code": "SYX"
+    },
+    {
+        "type": "large_airport",
+        "name": "Xi'an Xianyang International Airport",
+        "iso_country": "CN",
+        "municipality": "Xi'an",
+        "scheduled_service": "yes",
+        "iata_code": "XIY"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ulaanbaatar Chinggis Khaan International Airport",
+        "iso_country": "MN",
+        "municipality": "Ulaanbaatar (Sergelen)",
+        "scheduled_service": "yes",
+        "iata_code": "UBN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Kunming Changshui International Airport",
+        "iso_country": "CN",
+        "municipality": "Kunming",
+        "scheduled_service": "yes",
+        "iata_code": "KMG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Xiamen Gaoqi International Airport",
+        "iso_country": "CN",
+        "municipality": "Xiamen",
+        "scheduled_service": "yes",
+        "iata_code": "XMN"
+    },
+    {
+        "type": "large_airport",
+        "name": "Fuzhou Changle International Airport",
+        "iso_country": "CN",
+        "municipality": "Fuzhou",
+        "scheduled_service": "yes",
+        "iata_code": "FOC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Hangzhou Xiaoshan International Airport",
+        "iso_country": "CN",
+        "municipality": "Hangzhou",
+        "scheduled_service": "yes",
+        "iata_code": "HGH"
+    },
+    {
+        "type": "large_airport",
+        "name": "Jinan Yaoqiang International Airport",
+        "iso_country": "CN",
+        "municipality": "Jinan",
+        "scheduled_service": "yes",
+        "iata_code": "TNA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Ningbo Lishe International Airport",
+        "iso_country": "CN",
+        "municipality": "Ningbo",
+        "scheduled_service": "yes",
+        "iata_code": "NGB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Nanjing Lukou International Airport",
+        "iso_country": "CN",
+        "municipality": "Nanjing",
+        "scheduled_service": "yes",
+        "iata_code": "NKG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Shanghai Pudong International Airport",
+        "iso_country": "CN",
+        "municipality": "Shanghai (Pudong)",
+        "scheduled_service": "yes",
+        "iata_code": "PVG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Shanghai Hongqiao International Airport",
+        "iso_country": "CN",
+        "municipality": "Shanghai (Minhang)",
+        "scheduled_service": "yes",
+        "iata_code": "SHA"
+    },
+    {
+        "type": "large_airport",
+        "name": "Wenzhou Longwan International Airport",
+        "iso_country": "CN",
+        "municipality": "Wenzhou",
+        "scheduled_service": "yes",
+        "iata_code": "WNZ"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chongqing Jiangbei International Airport",
+        "iso_country": "CN",
+        "municipality": "Chongqing",
+        "scheduled_service": "yes",
+        "iata_code": "CKG"
+    },
+    {
+        "type": "large_airport",
+        "name": "Longdongbao Airport",
+        "iso_country": "CN",
+        "municipality": "Guiyang",
+        "scheduled_service": "yes",
+        "iata_code": "KWE"
+    },
+    {
+        "type": "large_airport",
+        "name": "Chengdu Shuangliu International Airport",
+        "iso_country": "CN",
+        "municipality": "Chengdu",
+        "scheduled_service": "yes",
+        "iata_code": "CTU"
+    },
+    {
+        "type": "large_airport",
+        "name": "\u00dcr\u00fcmqi Diwopu International Airport",
+        "iso_country": "CN",
+        "municipality": "\u00dcr\u00fcmqi",
+        "scheduled_service": "yes",
+        "iata_code": "URC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Harbin Taiping International Airport",
+        "iso_country": "CN",
+        "municipality": "Harbin",
+        "scheduled_service": "yes",
+        "iata_code": "HRB"
+    },
+    {
+        "type": "large_airport",
+        "name": "Dalian Zhoushuizi International Airport",
+        "iso_country": "CN",
+        "municipality": "Ganjingzi, Dalian",
+        "scheduled_service": "yes",
+        "iata_code": "DLC"
+    },
+    {
+        "type": "large_airport",
+        "name": "Shenyang Taoxian International Airport",
+        "iso_country": "CN",
+        "municipality": "Hunnan, Shenyang",
+        "scheduled_service": "yes",
+        "iata_code": "SHE"
+    }
+]

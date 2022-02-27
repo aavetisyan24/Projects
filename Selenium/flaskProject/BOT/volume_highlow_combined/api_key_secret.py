@@ -1,0 +1,34 @@
+API_KEY = "cEd9lEQacbpDlqMleeBYdEZFg7WhCW53chVxKXzG6kND1iGEKTiLF9AhZezvsjRg"
+API_SECRET = "FFK4uFT8yaD3HGQVLjKHiUc0ffCIcSXL8P1rdK4jIyvRlbyjKwcXHjV2MYaFlgis"
+
+
+API_KEY_FUT = "v33wwgyUimvuYGR93hBRXXweX7VYoZ2gGP4KTx6sWU3HosanuDzn4G7Edg9YgJ63"
+API_SECRET_FUT = "Mqcv64S0qM6aqZ2AGclsA7rWgw4M5kvoktQjVBAsYzqW8W8oDZiFcbLGg9H6eoEn"
+
+
+
+COINS_LIST = ["BTC","ETH","BCH","XRP","EOS","LTC","TRX","ETC","LINK","XLM","ADA","XMR","DASH","ZEC","XTZ","BNB",
+             "ATOM","ONT","IOTA","BAT","VET","NEO","QTUM","IOST","THETA","ALGO","ZIL","KNC","ZRX","COMP","OMG",
+             "DOGE","SXP","KAVA","BAND","RLC","WAVES","MKR","SNX","DOT", "YFI","BAL","CRV","TRB","YFII",
+             "RUNE","SUSHI","SRM","BZRX","EGLD","SOL","ICX","STORJ","BLZ","UNI","AVAX","FTM","HNT","ENJ","FLM",
+             "TOMO","REN","KSM","NEAR","AAVE","FIL","RSR","LRC","MATIC","OCEAN","CVC","BEL","CTK","AXS","ALPHA",
+             "ZEN","SKL","GRT","1INCH","AKRO","CHZ","SAND","ANKR","LUNA","BTS","LIT","UNFI","DODO","REEF","RVN",
+             "SFP","XEM","COTI","CHR","MANA","ALICE","HBAR","ONE","LINA","STMX","DENT","CELR","HOT","MTL","OGN",
+             "BTT","NKN","SC"],
+AVERAGE_OF = 17,
+MULTIPLY = 7,
+EXTRA = 2,
+TIME1M =1,
+TIME3M = 0,
+TIME5M = 0,
+TIME15M = 0,
+TIME30M = 0,
+TIME1H = 0,
+TIME4H = 0,
+SOUND_FREQUENCY = 500,
+SOUND_DURATION = 500,
+
+
+
+
+
